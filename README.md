@@ -4,4 +4,4 @@
 
 ## Chalenges 
 1. fizzbuzz
-2. 2. lenguajehacker
+2. lenguajehacker
